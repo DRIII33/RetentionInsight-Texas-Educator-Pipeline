@@ -1,8 +1,8 @@
 # **RetentionInsight:** Texas Educator Pipeline Analysis
-
-# **Data Analyst:** Daniel Rodriguez III
-# **Date:** June 22, 2026
-
+---
+#### **Data Analyst:** Daniel Rodriguez III
+#### **Date:** June 22, 2026
+---
 ## **Project Overview**
 **RetentionInsight** is an end-to-end data engineering and causal analytics framework designed to model educator retention trends within the Texas Education Agency (TEA) policy context. This project serves as a professional demonstration of the complete data lifecycle—from synthetic data generation and ETL pipeline design to building actionable, audit-ready analytical dashboards.
 
